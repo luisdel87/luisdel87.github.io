@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](https://github.com/luisdel87/luisdel87.github.io/blob/master/pictures/portfolio/portfolio-IoT.png?raw=true)
 
 # docsify <small>3.5</small>
 
