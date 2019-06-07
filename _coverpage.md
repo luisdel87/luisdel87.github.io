@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://github.com/luisdel87/luisdel87.github.io/blob/master/pictures/portfolio/portfolio-IoT.png?raw=true)
+![logo](https://www.telefonica.com/telefonica-theme/images/dFront/modules/mod_footer/logo_telefonica_azul.png)
 
 # docsify <small>3.5</small>
 
