@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/telefonicaid/iot-activation)
+[Get Started](https://telefonicaid.github.io/iot-activation/)
